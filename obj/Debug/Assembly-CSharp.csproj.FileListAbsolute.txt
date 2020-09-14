@@ -530,6 +530,9 @@ C:\Users\User\Desktop\Bomberman_v5\Temp\bin\Debug\UnityEngine.Networking.xml
 C:\Users\User\Desktop\Bomberman_v5\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
 C:\Users\User\Desktop\Bomberman_v5\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
 C:\Users\User\Desktop\Bomberman_v5\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\user\Desktop\Bomberman_DesignPattern\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Bomberman_DesignPattern\obj\Debug\Assembly-CSharp.dll
+C:\Users\user\Desktop\Bomberman_DesignPattern\obj\Debug\Assembly-CSharp.pdb
 C:\Users\User\Desktop\Bomberman\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
 C:\Users\User\Desktop\Bomberman\Temp\bin\Debug\mscorlib.dll
 C:\Users\User\Desktop\Bomberman\Temp\bin\Debug\netstandard.dll
